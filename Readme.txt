@@ -1,0 +1,4 @@
+step1. 利用java程序提取数据，每个mz对应一个文件
+数据文件第一行是查询的mz和rt
+第二行之后是rt和intensity
+step2.利用R作图，输出文件格式为pdf
